@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAX5UwTQVPZkS7F6T2h1K84QAAAAACAAAAAAAQZgAAAAEAACAAAADGlJXK8tCttDVhl/pyVDN1qpUq88xShBO4hqqEPIWNUwAAAAAOgAAAAAIAACAAAABOwMGne9NlUekCNYNk+EkQRGKdmRcHX5ld66hN963z54AAAAA3e/Ni2pOBxK6MNg5GNlGrOuv4pmAIxUbZ4d76mDxM7CrENd/oY7hiK7xxwpi7MsK9QSb0tudfvajBrGXkAO0EgtpnBqSwIWGsbLIZ0upgF1WJIfJxRL7RKm1jDqtDFDJXkcERz5Fvxdj7Ql8/dJ0B5qSfKRQnEluh8/5rICc000AAAABEsbp9Uc4cBvHwiKYRRzN4fE3JVNxw/M04WrK6Q70/eLcXuTRF6VXD2Iolv7J5TZdkcDpv5BhmnDtzRZBnzZTf</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:casestudy3067.database.windows.net,1433%3bInitial Catalog=casestudy%3bPersist Security Info=False%3bUser ID=Info3067Login%3bPassword=Helloworld1407%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
